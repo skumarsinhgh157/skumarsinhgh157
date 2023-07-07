@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skumarsinhgh157
 - 👀 I’m interested in Web Development and Java Full Stack .
-- 🌱 I’m currently learning JAVA , C , Data Structure and Algorithms .
+- 🌱 I’m currently learning JAVA , C , Data Structure and Algorithms and learning Web Development.
 - 💞️ I’m looking to collaborate on new projects .
 - 📫 You can contact me through my Github .
 
